@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="d4b82ec2-f132-4b32-b50c-a1ce4b606fe0" name="uhsye@LAPTOP-C7828UUI 2021-06-29 13:05:05" runUser="LAPTOP-C7828UUI\uhsye" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-06-29T13:05:05.3904416+05:00" queuing="2021-06-29T13:05:05.3904416+05:00" start="2021-06-29T13:04:51.3104076+05:00" finish="2021-06-29T13:11:46.2551678+05:00" />
+  <TestSettings name="default" id="e8168229-88a4-4338-9861-5a1bcd298dc6">
+    <Deployment runDeploymentRoot="uhsye_LAPTOP-C7828UUI_2021-06-29_13_05_05" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="c5829add-002c-4ec4-aeb3-91f2cb459ef1" testId="93eb4ac0-1a40-c8de-0fbf-e2dd11b2252f" testName="TestCase_001" computerName="LAPTOP-C7828UUI" duration="00:00:21.4969430" startTime="2021-06-29T13:10:02.0695569+05:00" endTime="2021-06-29T13:10:23.5680688+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c5829add-002c-4ec4-aeb3-91f2cb459ef1" />
+    <UnitTestResult executionId="10e1a468-0d89-4ae3-9600-65b8b579eb00" testId="b9abbc32-fd00-5347-6657-5a693b764621" testName="TestCase_List" computerName="LAPTOP-C7828UUI" duration="00:00:20.1064018" startTime="2021-06-29T13:06:09.4303376+05:00" endTime="2021-06-29T13:06:29.5388044+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10e1a468-0d89-4ae3-9600-65b8b579eb00" />
+    <UnitTestResult executionId="ae2dfd48-b842-44b5-8dfa-c16bb5f08f5e" testId="4537593f-2649-1b5f-8488-0e283ef0ef59" testName="TestCase_BookStore" computerName="LAPTOP-C7828UUI" duration="00:00:23.6564550" startTime="2021-06-29T13:07:57.3465705+05:00" endTime="2021-06-29T13:08:21.0037851+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae2dfd48-b842-44b5-8dfa-c16bb5f08f5e" />
+    <UnitTestResult executionId="546765e3-f3ab-4608-a79f-918cb465f780" testId="ffc0c306-0947-ed42-fa6c-3754ddfec963" testName="AlertClick" computerName="LAPTOP-C7828UUI" duration="00:00:09.2745604" startTime="2021-06-29T13:09:06.4542094+05:00" endTime="2021-06-29T13:09:15.7288891+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="546765e3-f3ab-4608-a79f-918cb465f780">
+      <Output>
+        <StdOut>You clicked a button</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="59d83e04-1978-4b86-b0b3-d30f61a72ccd" testId="60894989-cd5e-beb7-3925-f0f0a5e2042c" testName="TestCase_Profile" computerName="LAPTOP-C7828UUI" duration="00:00:15.0178951" startTime="2021-06-29T13:08:21.0037851+05:00" endTime="2021-06-29T13:08:36.0225022+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59d83e04-1978-4b86-b0b3-d30f61a72ccd" />
+    <UnitTestResult executionId="45ab3205-5d46-4b2e-9b45-a90caf0e5767" testId="097a7ae3-46ba-0c3f-5669-88d446c4db28" testName="TestCase_LoginInValidUsername" computerName="LAPTOP-C7828UUI" duration="00:00:12.9381425" startTime="2021-06-29T13:07:31.3002799+05:00" endTime="2021-06-29T13:07:44.2387447+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45ab3205-5d46-4b2e-9b45-a90caf0e5767" />
+    <UnitTestResult executionId="df1f96c4-87a6-4acc-8a2a-42f09a13d9e1" testId="815ab8af-cd3c-7438-f892-66e9007503f8" testName="WaitAlert" computerName="LAPTOP-C7828UUI" duration="00:00:17.0104338" startTime="2021-06-29T13:08:49.4420440+05:00" endTime="2021-06-29T13:09:06.4532212+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df1f96c4-87a6-4acc-8a2a-42f09a13d9e1" />
+    <UnitTestResult executionId="00b6c952-567e-4d26-887e-8c53420be7fa" testId="1dc85004-da97-acd4-3255-ac3f509d73a7" testName="TestCase_002" computerName="LAPTOP-C7828UUI" duration="00:00:19.5040262" startTime="2021-06-29T13:10:23.5680688+05:00" endTime="2021-06-29T13:10:43.0718603+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00b6c952-567e-4d26-887e-8c53420be7fa" />
+    <UnitTestResult executionId="3b7dbff3-0f9c-4580-ab8e-d04df5a08195" testId="6615dcf7-b47f-6323-86f8-89336b8f95cf" testName="confirmtest" computerName="LAPTOP-C7828UUI" duration="00:00:12.7252608" startTime="2021-06-29T13:09:38.3318211+05:00" endTime="2021-06-29T13:09:51.0573576+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3b7dbff3-0f9c-4580-ab8e-d04df5a08195" />
+    <UnitTestResult executionId="eed80924-5104-4768-9795-89d5cf541408" testId="62a2772e-8433-43a8-8147-60d30224cb0e" testName="Small_Test" computerName="LAPTOP-C7828UUI" duration="00:00:11.0434029" startTime="2021-06-29T13:09:15.7288891+05:00" endTime="2021-06-29T13:09:26.7729498+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eed80924-5104-4768-9795-89d5cf541408" />
+    <UnitTestResult executionId="52f567e7-2ae5-46c1-ab35-c42260fd9f74" testId="6891f35a-9be1-c019-ddac-baf9516fc9f0" testName="TestCase_004" computerName="LAPTOP-C7828UUI" duration="00:00:21.7430193" startTime="2021-06-29T13:11:04.6957447+05:00" endTime="2021-06-29T13:11:26.4396522+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52f567e7-2ae5-46c1-ab35-c42260fd9f74" />
+    <UnitTestResult executionId="213156d8-04dc-489c-9b37-e7d8b36fe526" testId="bafc377c-eb67-5501-efe1-a7d3c6a9fce5" testName="TestCase_SortGrid" computerName="LAPTOP-C7828UUI" duration="00:00:15.8725497" startTime="2021-06-29T13:07:02.3301681+05:00" endTime="2021-06-29T13:07:18.2031748+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="213156d8-04dc-489c-9b37-e7d8b36fe526" />
+    <UnitTestResult executionId="90d26b87-7939-471f-b435-9773aaf22265" testId="58abf3b4-41f3-b2c2-0b96-25079285c00d" testName="TestCase_LoginValid" computerName="LAPTOP-C7828UUI" duration="00:00:13.0954189" startTime="2021-06-29T13:07:18.2041703+05:00" endTime="2021-06-29T13:07:31.3002799+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90d26b87-7939-471f-b435-9773aaf22265" />
+    <UnitTestResult executionId="80bfe0b0-710b-45e1-b2d3-dddf38113e2c" testId="5d0c1968-64a5-9dc9-eddb-1b718492cf39" testName="TestCase_Negative" computerName="LAPTOP-C7828UUI" duration="00:00:17.3574042" startTime="2021-06-29T13:05:52.0722767+05:00" endTime="2021-06-29T13:06:09.4303376+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="80bfe0b0-710b-45e1-b2d3-dddf38113e2c" />
+    <UnitTestResult executionId="e37dbcca-ba59-4ac3-9b76-2377243df1fd" testId="b0345460-f63e-b493-0594-7c89dd35ab05" testName="TestCase_003" computerName="LAPTOP-C7828UUI" duration="00:00:21.6222386" startTime="2021-06-29T13:10:43.0718603+05:00" endTime="2021-06-29T13:11:04.6947476+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e37dbcca-ba59-4ac3-9b76-2377243df1fd" />
+    <UnitTestResult executionId="dffc06aa-99f9-4719-8629-8a3ff374fd5c" testId="f6ac2b9c-3a6f-3f26-d988-2c65fdf952ea" testName="nested_test" computerName="LAPTOP-C7828UUI" duration="00:00:13.4185492" startTime="2021-06-29T13:08:36.0225022+05:00" endTime="2021-06-29T13:08:49.4420440+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dffc06aa-99f9-4719-8629-8a3ff374fd5c" />
+    <UnitTestResult executionId="ef2d4591-0b9e-402d-b815-9bb3f82126b2" testId="4706393e-2347-090d-99b8-0331e467be67" testName="TestCase_Positive" computerName="LAPTOP-C7828UUI" duration="00:00:46.6885571" startTime="2021-06-29T13:05:05.3824563+05:00" endTime="2021-06-29T13:05:52.0712778+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef2d4591-0b9e-402d-b815-9bb3f82126b2" />
+    <UnitTestResult executionId="81734cd2-2fd0-493d-9dd0-2d55c7414b89" testId="f76307f3-fc15-8ec1-b081-a80e44bc2df5" testName="MsgPrompt" computerName="LAPTOP-C7828UUI" duration="00:00:11.0109144" startTime="2021-06-29T13:09:51.0583664+05:00" endTime="2021-06-29T13:10:02.0695569+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81734cd2-2fd0-493d-9dd0-2d55c7414b89" />
+    <UnitTestResult executionId="222b31e6-b9e4-487a-acd3-0144f182bb9a" testId="efd0d5b5-ae6e-df1b-61ee-49e68563a40e" testName="TestCase_1" computerName="LAPTOP-C7828UUI" duration="00:00:13.5280252" startTime="2021-06-29T13:04:51.7728699+05:00" endTime="2021-06-29T13:05:05.3625101+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="222b31e6-b9e4-487a-acd3-0144f182bb9a" />
+    <UnitTestResult executionId="b451856f-8506-4d62-9893-e5db9997994b" testId="e5d0cc49-a3c5-e6e5-3adb-b6b2809f25b6" testName="TestCase_LoginInValidPassword" computerName="LAPTOP-C7828UUI" duration="00:00:13.1075181" startTime="2021-06-29T13:07:44.2387447+05:00" endTime="2021-06-29T13:07:57.3465705+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b451856f-8506-4d62-9893-e5db9997994b" />
+    <UnitTestResult executionId="fc53d42e-2f88-4a18-9304-5c40c7fe65af" testId="9e68f104-1260-45d5-51b3-735966618ce3" testName="TestCase_005" computerName="LAPTOP-C7828UUI" duration="00:00:19.6383631" startTime="2021-06-29T13:11:26.4396522+05:00" endTime="2021-06-29T13:11:46.0786366+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc53d42e-2f88-4a18-9304-5c40c7fe65af" />
+    <UnitTestResult executionId="b05bf27d-3145-4857-bb3c-26cfe23b74c4" testId="30f01996-0e8b-b691-bc95-b71454dd53b4" testName="TestCase_SortList" computerName="LAPTOP-C7828UUI" duration="00:00:16.1192448" startTime="2021-06-29T13:06:46.2101194+05:00" endTime="2021-06-29T13:07:02.3301681+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b05bf27d-3145-4857-bb3c-26cfe23b74c4" />
+    <UnitTestResult executionId="66198b3c-e206-4184-bb48-a24593f5ec9a" testId="977ca129-ecc2-f200-6964-5c9027e5bd5a" testName="TestCase_Grid" computerName="LAPTOP-C7828UUI" duration="00:00:16.6710605" startTime="2021-06-29T13:06:29.5388044+05:00" endTime="2021-06-29T13:06:46.2101194+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66198b3c-e206-4184-bb48-a24593f5ec9a" />
+    <UnitTestResult executionId="c8c7cb76-3ae3-403c-ace4-6ef6ed315926" testId="8a6256d9-070b-57c8-ff4d-0803974365e4" testName="newwindow_check" computerName="LAPTOP-C7828UUI" duration="00:00:11.5574943" startTime="2021-06-29T13:09:26.7729498+05:00" endTime="2021-06-29T13:09:38.3318211+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8c7cb76-3ae3-403c-ace4-6ef6ed315926" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestCase_LoginInValidUsername" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="097a7ae3-46ba-0c3f-5669-88d446c4db28">
+      <TestCategory>
+        <TestCategoryItem TestCategory="BookStoreApp" />
+      </TestCategory>
+      <Execution id="45ab3205-5d46-4b2e-9b45-a90caf0e5767" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest5" name="TestCase_LoginInValidUsername" />
+    </UnitTest>
+    <UnitTest name="confirmtest" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="6615dcf7-b47f-6323-86f8-89336b8f95cf">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Confirmation alert" />
+      </TestCategory>
+      <Execution id="3b7dbff3-0f9c-4580-ab8e-d04df5a08195" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.ConfirmTest" name="confirmtest" />
+    </UnitTest>
+    <UnitTest name="AlertClick" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="ffc0c306-0947-ed42-fa6c-3754ddfec963">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Alert click buttton" />
+      </TestCategory>
+      <Execution id="546765e3-f3ab-4608-a79f-918cb465f780" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.AlertMsgClick_Test" name="AlertClick" />
+    </UnitTest>
+    <UnitTest name="WaitAlert" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="815ab8af-cd3c-7438-f892-66e9007503f8">
+      <TestCategory>
+        <TestCategoryItem TestCategory="wait_for_alert" />
+      </TestCategory>
+      <Execution id="df1f96c4-87a6-4acc-8a2a-42f09a13d9e1" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.OnClickWait_test" name="WaitAlert" />
+    </UnitTest>
+    <UnitTest name="TestCase_003" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="b0345460-f63e-b493-0594-7c89dd35ab05">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Forms" />
+      </TestCategory>
+      <Execution id="e37dbcca-ba59-4ac3-9b76-2377243df1fd" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.TestExecution" name="TestCase_003" />
+    </UnitTest>
+    <UnitTest name="TestCase_002" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="1dc85004-da97-acd4-3255-ac3f509d73a7">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Forms" />
+      </TestCategory>
+      <Execution id="00b6c952-567e-4d26-887e-8c53420be7fa" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.TestExecution" name="TestCase_002" />
+    </UnitTest>
+    <UnitTest name="newwindow_check" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="8a6256d9-070b-57c8-ff4d-0803974365e4">
+      <TestCategory>
+        <TestCategoryItem TestCategory="new window" />
+      </TestCategory>
+      <Execution id="c8c7cb76-3ae3-403c-ace4-6ef6ed315926" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.NewWindow_Test" name="newwindow_check" />
+    </UnitTest>
+    <UnitTest name="TestCase_005" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="9e68f104-1260-45d5-51b3-735966618ce3">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Forms" />
+      </TestCategory>
+      <Execution id="fc53d42e-2f88-4a18-9304-5c40c7fe65af" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.TestExecution" name="TestCase_005" />
+    </UnitTest>
+    <UnitTest name="TestCase_List" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="b9abbc32-fd00-5347-6657-5a693b764621">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Selectable" />
+      </TestCategory>
+      <Execution id="10e1a468-0d89-4ae3-9600-65b8b579eb00" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest3" name="TestCase_List" />
+    </UnitTest>
+    <UnitTest name="TestCase_001" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="93eb4ac0-1a40-c8de-0fbf-e2dd11b2252f">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Forms" />
+      </TestCategory>
+      <Execution id="c5829add-002c-4ec4-aeb3-91f2cb459ef1" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.TestExecution" name="TestCase_001" />
+    </UnitTest>
+    <UnitTest name="MsgPrompt" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="f76307f3-fc15-8ec1-b081-a80e44bc2df5">
+      <TestCategory>
+        <TestCategoryItem TestCategory="PrompTest" />
+      </TestCategory>
+      <Execution id="81734cd2-2fd0-493d-9dd0-2d55c7414b89" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.TestPrompt" name="MsgPrompt" />
+    </UnitTest>
+    <UnitTest name="TestCase_Grid" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="977ca129-ecc2-f200-6964-5c9027e5bd5a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Selectable" />
+      </TestCategory>
+      <Execution id="66198b3c-e206-4184-bb48-a24593f5ec9a" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest3" name="TestCase_Grid" />
+    </UnitTest>
+    <UnitTest name="TestCase_LoginInValidPassword" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="e5d0cc49-a3c5-e6e5-3adb-b6b2809f25b6">
+      <TestCategory>
+        <TestCategoryItem TestCategory="BookStoreApp" />
+      </TestCategory>
+      <Execution id="b451856f-8506-4d62-9893-e5db9997994b" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest5" name="TestCase_LoginInValidPassword" />
+    </UnitTest>
+    <UnitTest name="TestCase_004" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="6891f35a-9be1-c019-ddac-baf9516fc9f0">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Forms" />
+      </TestCategory>
+      <Execution id="52f567e7-2ae5-46c1-ab35-c42260fd9f74" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.TestExecution" name="TestCase_004" />
+    </UnitTest>
+    <UnitTest name="TestCase_SortGrid" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="bafc377c-eb67-5501-efe1-a7d3c6a9fce5">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Sortable" />
+      </TestCategory>
+      <Execution id="213156d8-04dc-489c-9b37-e7d8b36fe526" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest4" name="TestCase_SortGrid" />
+    </UnitTest>
+    <UnitTest name="TestCase_Profile" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="60894989-cd5e-beb7-3925-f0f0a5e2042c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="BookStoreApp" />
+      </TestCategory>
+      <Execution id="59d83e04-1978-4b86-b0b3-d30f61a72ccd" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest5" name="TestCase_Profile" />
+    </UnitTest>
+    <UnitTest name="TestCase_SortList" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="30f01996-0e8b-b691-bc95-b71454dd53b4">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Sortable" />
+      </TestCategory>
+      <Execution id="b05bf27d-3145-4857-bb3c-26cfe23b74c4" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest4" name="TestCase_SortList" />
+    </UnitTest>
+    <UnitTest name="TestCase_BookStore" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="4537593f-2649-1b5f-8488-0e283ef0ef59">
+      <TestCategory>
+        <TestCategoryItem TestCategory="BookStoreApp" />
+      </TestCategory>
+      <Execution id="ae2dfd48-b842-44b5-8dfa-c16bb5f08f5e" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest5" name="TestCase_BookStore" />
+    </UnitTest>
+    <UnitTest name="Small_Test" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="62a2772e-8433-43a8-8147-60d30224cb0e">
+      <TestCategory>
+        <TestCategoryItem TestCategory="small test" />
+      </TestCategory>
+      <Execution id="eed80924-5104-4768-9795-89d5cf541408" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.SmallTest" name="Small_Test" />
+    </UnitTest>
+    <UnitTest name="TestCase_1" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="efd0d5b5-ae6e-df1b-61ee-49e68563a40e">
+      <TestCategory>
+        <TestCategoryItem TestCategory="dragAnddrop" />
+      </TestCategory>
+      <Execution id="222b31e6-b9e4-487a-acd3-0144f182bb9a" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest1" name="TestCase_1" />
+    </UnitTest>
+    <UnitTest name="nested_test" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="f6ac2b9c-3a6f-3f26-d988-2c65fdf952ea">
+      <TestCategory>
+        <TestCategoryItem TestCategory="nested test" />
+      </TestCategory>
+      <Execution id="dffc06aa-99f9-4719-8629-8a3ff374fd5c" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.nestedFrame_test" name="nested_test" />
+    </UnitTest>
+    <UnitTest name="TestCase_LoginValid" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="58abf3b4-41f3-b2c2-0b96-25079285c00d">
+      <TestCategory>
+        <TestCategoryItem TestCategory="BookStoreApp" />
+      </TestCategory>
+      <Execution id="90d26b87-7939-471f-b435-9773aaf22265" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest5" name="TestCase_LoginValid" />
+    </UnitTest>
+    <UnitTest name="TestCase_Positive" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="4706393e-2347-090d-99b8-0331e467be67">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Resizable" />
+      </TestCategory>
+      <Execution id="ef2d4591-0b9e-402d-b815-9bb3f82126b2" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest2" name="TestCase_Positive" />
+    </UnitTest>
+    <UnitTest name="TestCase_Negative" storage="c:\users\uhsye\source\repos\automation_proj\automation_proj\bin\debug\automation_proj.dll" id="5d0c1968-64a5-9dc9-eddb-1b718492cf39">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Resizable" />
+      </TestCategory>
+      <Execution id="80bfe0b0-710b-45e1-b2d3-dddf38113e2c" />
+      <TestMethod codeBase="C:\Users\uhsye\source\repos\Automation_Proj\Automation_Proj\bin\Debug\Automation_Proj.dll" adapterTypeName="executor://mstestadapter/v2" className="Automation_Proj.UnitTest2" name="TestCase_Negative" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="93eb4ac0-1a40-c8de-0fbf-e2dd11b2252f" executionId="c5829add-002c-4ec4-aeb3-91f2cb459ef1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b9abbc32-fd00-5347-6657-5a693b764621" executionId="10e1a468-0d89-4ae3-9600-65b8b579eb00" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4537593f-2649-1b5f-8488-0e283ef0ef59" executionId="ae2dfd48-b842-44b5-8dfa-c16bb5f08f5e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ffc0c306-0947-ed42-fa6c-3754ddfec963" executionId="546765e3-f3ab-4608-a79f-918cb465f780" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="60894989-cd5e-beb7-3925-f0f0a5e2042c" executionId="59d83e04-1978-4b86-b0b3-d30f61a72ccd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="097a7ae3-46ba-0c3f-5669-88d446c4db28" executionId="45ab3205-5d46-4b2e-9b45-a90caf0e5767" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="815ab8af-cd3c-7438-f892-66e9007503f8" executionId="df1f96c4-87a6-4acc-8a2a-42f09a13d9e1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1dc85004-da97-acd4-3255-ac3f509d73a7" executionId="00b6c952-567e-4d26-887e-8c53420be7fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6615dcf7-b47f-6323-86f8-89336b8f95cf" executionId="3b7dbff3-0f9c-4580-ab8e-d04df5a08195" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62a2772e-8433-43a8-8147-60d30224cb0e" executionId="eed80924-5104-4768-9795-89d5cf541408" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6891f35a-9be1-c019-ddac-baf9516fc9f0" executionId="52f567e7-2ae5-46c1-ab35-c42260fd9f74" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bafc377c-eb67-5501-efe1-a7d3c6a9fce5" executionId="213156d8-04dc-489c-9b37-e7d8b36fe526" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="58abf3b4-41f3-b2c2-0b96-25079285c00d" executionId="90d26b87-7939-471f-b435-9773aaf22265" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5d0c1968-64a5-9dc9-eddb-1b718492cf39" executionId="80bfe0b0-710b-45e1-b2d3-dddf38113e2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b0345460-f63e-b493-0594-7c89dd35ab05" executionId="e37dbcca-ba59-4ac3-9b76-2377243df1fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f6ac2b9c-3a6f-3f26-d988-2c65fdf952ea" executionId="dffc06aa-99f9-4719-8629-8a3ff374fd5c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4706393e-2347-090d-99b8-0331e467be67" executionId="ef2d4591-0b9e-402d-b815-9bb3f82126b2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f76307f3-fc15-8ec1-b081-a80e44bc2df5" executionId="81734cd2-2fd0-493d-9dd0-2d55c7414b89" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="efd0d5b5-ae6e-df1b-61ee-49e68563a40e" executionId="222b31e6-b9e4-487a-acd3-0144f182bb9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e5d0cc49-a3c5-e6e5-3adb-b6b2809f25b6" executionId="b451856f-8506-4d62-9893-e5db9997994b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9e68f104-1260-45d5-51b3-735966618ce3" executionId="fc53d42e-2f88-4a18-9304-5c40c7fe65af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30f01996-0e8b-b691-bc95-b71454dd53b4" executionId="b05bf27d-3145-4857-bb3c-26cfe23b74c4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="977ca129-ecc2-f200-6964-5c9027e5bd5a" executionId="66198b3c-e206-4184-bb48-a24593f5ec9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a6256d9-070b-57c8-ff4d-0803974365e4" executionId="c8c7cb76-3ae3-403c-ace4-6ef6ed315926" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="24" executed="24" passed="24" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
